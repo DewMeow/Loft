@@ -4,7 +4,6 @@ import headerBg from "../../assets/images/header-bg.jpg";
 import NavBar from "./NavBar/NavBar";
 
 import HeaderTitle from "./HeaderContent/HeaderTitle";
-import HeaderContacts from "./HeaderContent/HeaderContacts";
 
 const Header = () => {
   return (
